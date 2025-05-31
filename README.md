@@ -62,7 +62,6 @@ Además, se evitó que la cámara se posicione detrás del jugador o atraviese e
 - Ambientación final de la escena exterior.
 - Distribución y bake final de Light Probes.
 - Verificar iluminación en todos los sectores de la escena desde el punto de vista del jugador.
-- Implementar cambio de animación por interacción (opcional).
 - Revisión de rendimiento final con LODs aplicados.
 
 ---
