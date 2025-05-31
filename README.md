@@ -70,7 +70,7 @@ Además, se evitó que la cámara se posicione detrás del jugador o atraviese e
 ## 🐱‍👓 Extras
 
 - Centrar el mouse/puntero a la pantalla con el jugador mirando al frente.
-- Incorporación de materiales personalizados para solucionar caras invisibles sin modificar el modelo.
+
 
 ---
 
