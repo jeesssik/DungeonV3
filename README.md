@@ -27,7 +27,7 @@ Este proyecto es parte de un trabajo práctico que tiene como objetivo integrar 
 
 
 Se aplicó un **material con Shader doble cara (Render Face: Both)** en paredes con caras invertidas, evitando problemas de visualización al mirarlas desde el interior.
-
+Reorganización de gameObjects en la escena de exteriores
 
 ---
 
